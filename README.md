@@ -18,3 +18,4 @@ Probably not — at least not with a unit test. Sending a message depends on the
 
 Yeah, this one is a perfect fit for a unit test. It's basically a pure function — you give it a string, you ask whether it's under the limit, and you check the answer. There's no network call, no DOM, nothing async. That makes it easy to hit all the interesting boundaries (one character under, exactly at the limit, one character over, an empty string) in milliseconds, which is exactly the kind of thing unit tests are good at.
 
+
