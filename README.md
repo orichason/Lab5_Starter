@@ -5,8 +5,8 @@
 - _Partner: TBD_
 
 ## GitHub Pages
-- Expose (Party Horn): _link TBD_
-- Explore (Speech Synthesis): _link TBD_
+- Expose (Party Horn): https://orichason.github.io/Lab5_Starter/expose.html
+- Explore (Speech Synthesis): https://orichason.github.io/Lab5_Starter/explore.html
 
 ## Check Your Understanding
 
